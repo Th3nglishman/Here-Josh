@@ -1,0 +1,10 @@
+{
+    "name": "DronesInheritItems",
+    "version_number": "2.4.5",
+    "website_url": "https://github.com/BasilPanda/RoR2DronesInheritItems",
+    "description": "A mod that allows drones, turrets, AURELIONITE, queen guards and ghosts to inherit/generate items from the player when purchased. Now updated for Skills 2.0 patch!",
+    "dependencies": [
+        "bbepis-BepInExPack-2.0.0",
+		"tristanmcpherson-R2API-2.1.16"
+    ]
+}

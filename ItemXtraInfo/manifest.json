@@ -1,0 +1,10 @@
+{
+    "name": "ItemXtraInfo",
+    "version_number": "0.2.2",
+    "website_url": "https://github.com/solidmiki21/ItemXtraInfo",
+    "description": "Item Xtra Info is a mod that calculates item bonus, chances, stats and all that stuff. It only shows when you hover the move over the TAB menu items.",
+    "dependencies": [
+        "bbepis-BepInExPack-2.0.0",
+        "tristanmcpherson-R2API-2.0.10"
+    ]
+}

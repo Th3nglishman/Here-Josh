@@ -1,0 +1,7 @@
+{
+    "name": "CritPlus",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Contains changes to crit item stacking, and the critical strike system in general, allows for critical strikes to apply the multiplier  several times over with enough crit chance.",
+	"dependencies": ["bbepis-BepInExPack-1.3.1"]
+}
