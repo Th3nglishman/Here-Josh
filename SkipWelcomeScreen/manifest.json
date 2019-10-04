@@ -1,0 +1,9 @@
+{
+  "name": "SkipWelcomeScreen",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/DekuDesu",
+  "description": "Automatically skip and remove the welcome message when you start your game.",
+  "dependencies": [
+    "bbepis-BepInExPack-2.0.0"
+  ]
+}
